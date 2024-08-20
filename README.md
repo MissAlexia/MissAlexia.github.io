@@ -92,6 +92,15 @@
             <h2>The Marriott Experience</h2>
             <p>The family resided in the exquisite Marriott Hotel, enjoying unparalleled luxury, with views of the Mediterranean, world-class service, and a lifestyle fit for royalty...</p>
         </div>
+        <nav>
+    <a href="#">Home</a>
+    <a href="#">The Birth</a>
+    <a href="#">The Marriott Experience</a>
+    <a href="#">Gallery</a>
+    <a href="#">Contact</a>
+    <a href="https://www.youtube.com/channel/@babysurprise-love" target="_blank">YouTube</a>
+</nav>
+
     </div>
 
     <footer>
