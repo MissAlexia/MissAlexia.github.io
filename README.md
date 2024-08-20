@@ -108,21 +108,6 @@
         
     </div>
 </div>
-.gallery {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 15px;
-    justify-content: center;
-}
-
-document.querySelectorAll('nav a').forEach(anchor => {
-    anchor.addEventListener('click', function(e) {
-        e.preventDefault();
-        document.querySelector(this.getAttribute('href')).scrollIntoView({
-            behavior: 'smooth'
-        });
-    });
-});
 <div class="content" id="contact">
     <h2>Contact Us</h2>
     <form action="https://example.com/submit-form" method="POST">
