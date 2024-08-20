@@ -98,7 +98,7 @@
     <a href="#">The Marriott Experience</a>
     <a href="#">Gallery</a>
     <a href="#">Contact</a>
-    <a href="https://www.youtube.com/channel/@babysurprise-love" target="_blank">YouTube</a>
+    <a href="https://www.youtube.com/channel/@babysurprise-love>YouTube</a>
 </nav>
 
     </div>
