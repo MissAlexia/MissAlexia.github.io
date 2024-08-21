@@ -15,7 +15,7 @@
             color: #333;
         }
         header {
-            background-color: #ffcc00;
+            background-color: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet); /* Rainbow gradient */
             color: white;
             text-align: center;
             padding: 20px 0;
