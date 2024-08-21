@@ -11,7 +11,7 @@
             font-family: 'Roboto', sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f9ff;
+            background-color: #ffc0cb;
             color: #333;
         }
         header {
