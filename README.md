@@ -94,7 +94,7 @@
         </div>
         <nav>
 
-    <a href="https://www.youtube.com/channel/@babysurprise-love>YouTube</a>
+    <a href="https://www.youtube.com/channel/@babysurprise-love>
 </nav>
 
     </div>
