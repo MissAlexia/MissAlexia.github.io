@@ -94,7 +94,14 @@
         </div>
         <nav>
 
-    <a href="https://www.youtube.com/channel/@babysurprise-love>
+    <div class="content">
+    <h2>Check Out Our YouTube Channel</h2>
+    <a href="https://www.youtube.com/channel/@babysurprise-love" target="_blank" class="youtube-button">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="24" height="24">
+        Subscribe on YouTube
+    </a>
+</div>
+
 </nav>
 
     </div>
