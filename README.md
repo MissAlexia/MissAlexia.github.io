@@ -85,7 +85,7 @@
 
         <div class="content">
             <h2>The Birth</h2>
-            <p>On a beautiful day in Monaco, [Baby's Name] was born in the most luxurious setting imaginable. The total cost was an astonishing [Amount], covering top-tier medical care, a luxurious stay at the Marriott, and more...</p>
+            <p>On a beautiful day in Monaco, Alexia was born in the most luxurious setting imaginable. The total cost was an astonishing $379.900, covering top-tier medical care, a luxurious stay at the Marriott, and more...</p>
         </div>
 
         <div class="content">
